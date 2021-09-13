@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\fs",
+    "\\include",
+    "\\include\\sys",
+    "\\kernel",
+    "\\lib",
+    "\\mm",
+    "\\scripts",
+    "\\user"
+  ],
+  "SelectedNode": "\\user\\app.c",
+  "PreviewInSolutionExplorer": false
+}
